@@ -10,6 +10,13 @@ Dataset Zip Folder Size: 45 MB
 ![olist_Excel_Dash](https://github.com/shanukumar007/E-Commerce-Olist-/assets/144050399/42aa84aa-ebc8-42c6-8d7f-ec20d335012e)
 ![Olist_Joins](https://github.com/shanukumar007/E-Commerce-Olist-/assets/144050399/aa993691-dacb-4b51-86bc-cabd531d9611)
 
+Skills/ Concepts Demonstrated
+The following skills were incorporated:
+Excel (pivot tables, charts, conditional formatting, VBA Macros, Slicers, Power Pivot)
+MySQL (Joins, Group by, Having, Window Functions, View, Aggregate Functions)
+Power BI (Bookmarking, DAX, Quick Measures, Page Navigations, Modelling, Filters, Tooltips)
+Tableau (Joins, Custom Charts, Calculated Field, parameters, actions, filters, buttons, annotations)
+
 KPI's
 1.Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 
